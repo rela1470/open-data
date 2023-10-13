@@ -15,6 +15,7 @@
 [
       {
         "toyokumo_id": "01",
+        "nest_level": "1",
         "prefectures_name": "北海道",
         "zone_name": "北海道",
         "region_name": "北海道地方",
@@ -22,6 +23,7 @@
     },
     {
         "toyokumo_id": "142",
+        "nest_level": "2",
         "prefectures_name": "北海道",
         "zone_name": "北海道道東",
         "region_name": "紋別地方",
